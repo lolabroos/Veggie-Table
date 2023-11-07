@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(250, 232, 126);
+}
+
+img{
+    width: 20em;
+}
+
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: rgb(234, 129, 180);
+    width: 22.5em;
+}
+
+nav a{
+    display: block;
+    margin-right: 2em;
+    margin-left: 2em;
+}
+
+a{
+    color: black;
+}
+
+
+p{
+    width: 20em;
+}
+.bgc{
+    background-color: rgb(194, 220, 177);
+}
+h1{ 
+    width: em;
+    font-family: cursive;
+}
+
+.logo{
+    width: 2em;
+}
+
+
+
+
+.page1 p {
+    padding: 1em;
+    background-color: rgb(234, 129, 180);
+
+}
