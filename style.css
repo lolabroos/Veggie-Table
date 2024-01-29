@@ -37,7 +37,6 @@ a{
 }
 
 p{
-    width: 19em;
     padding-left: 1em;
     padding-top: 1em;
     font-size: large;
@@ -48,7 +47,6 @@ p{
 }
 
 h1, h2, h3{ 
-    width: 18em;
     font-family: cursive;
     padding-left: 0.5em;
     padding-top: 0.5em;
@@ -147,6 +145,7 @@ footer{
     background-color: rgb(194, 220, 177);
     margin-top: 2.5em;
     border: solid rgb(194, 220, 177) 0.5em;
+    
 }
 
 h3{
