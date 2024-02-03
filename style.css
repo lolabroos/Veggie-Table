@@ -72,9 +72,6 @@ h1, h2, h3{
     margin-right: 2em;
     }
 
-p{
-    width: 16.5em;
-}
     
 .topbun{
     width: 20em;
@@ -85,6 +82,7 @@ p{
 .bottombun{
     width: 20em;
     margin-left: 0.5em;
+    margin-top: -1em;
 }
 
 .sterren{
